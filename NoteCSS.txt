@@ -8,3 +8,6 @@ h1 + h3 {
     color: red;
 }
 ca veut dire le premier h3 qui viens apres un h1
+
+
+p:nth-of-type(even) === p:nth-of-type(2n)
